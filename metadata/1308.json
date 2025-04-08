@@ -1,0 +1,21 @@
+{
+    "name": "Heart Army #1308",
+    "external_url" : "https://heartarmy.xyz/",
+    "description": "May our soldiers survive to acomplish their mission. May our walls stand the force of ice and our hearts the scourge of the Evernight. We do not ask winter for mercy, as it is it's nature to erase all unguarded life. We ask for strength.",
+    "image":"https://nft-metadata-host.nyc3.cdn.digitaloceanspaces.com/HA-Halloween/images/1308.png",
+    "attributes": [
+        {"trait_type":"Race","value":"Human"},
+        {"trait_type":"Face","value":"Happy"},
+        {"trait_type":"Job","value":"Soldier"},
+        {"trait_type":"Earrings","value":"Right Triangle Earring"},
+        {"trait_type":"Warcheeks","value":"Square Cheeks"},
+        {"trait_type":"War Pigment","value":"Mud"},
+        {"trait_type":"Hairstyle","value":"Short Hair"},
+        {"trait_type":"Body Palette","value":"Soft Coffee"},
+        {"trait_type":"Faction","value":"Guilds of the Cities of Man"},
+        {"trait_type":"Hair Color","value":"Brown"},
+        {"trait_type":"Background","value":"Yellowish Fairy"},
+        {"trait_type":"GenerationTrait","value":"Skeleton"},
+        {"trait_type":"Active Generation","value":"Halloween"}
+    ]
+}
