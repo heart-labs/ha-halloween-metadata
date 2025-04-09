@@ -1,18 +1,48 @@
 {
-    "name": "Heart Army #1384",
-    "external_url" : "https://heartarmy.xyz/",
-    "description": "May our soldiers survive to acomplish their mission. May our walls stand the force of ice and our hearts the scourge of the Evernight. We do not ask winter for mercy, as it is it's nature to erase all unguarded life. We ask for strength.",
-    "image":"https://nft-metadata-host.nyc3.cdn.digitaloceanspaces.com/HA-Halloween/images/1384.png",
-    "attributes": [
-        {"trait_type":"Race","value":"Human"},
-        {"trait_type":"Face","value":"Surprise"},
-        {"trait_type":"Job","value":"Explorer"},
-        {"trait_type":"Hairstyle","value":"Long Unstyled"},
-        {"trait_type":"Body Palette","value":"Noble Bronze"},
-        {"trait_type":"Faction","value":"Guilds of the Cities of Man"},
-        {"trait_type":"Hair Color","value":"Brown"},
-        {"trait_type":"Background","value":"Yellowish Fairy"},
-        {"trait_type":"GenerationTrait","value":"Devil"},
-        {"trait_type":"Active Generation","value":"Halloween"}
-    ]
+  "name": "Heart Army #1384",
+  "external_url": "https://heartarmy.xyz/",
+  "description": "May our soldiers survive to acomplish their mission. May our walls stand the force of ice and our hearts the scourge of the Evernight. We do not ask winter for mercy, as it is it's nature to erase all unguarded life. We ask for strength.",
+  "image": "https://raw.githubusercontent.com/heart-labs/ha-halloween-metadata/refs/heads/main/images/1384.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Surprise"
+    },
+    {
+      "trait_type": "Job",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Long Unstyled"
+    },
+    {
+      "trait_type": "Body Palette",
+      "value": "Noble Bronze"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Guilds of the Cities of Man"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellowish Fairy"
+    },
+    {
+      "trait_type": "GenerationTrait",
+      "value": "Devil"
+    },
+    {
+      "trait_type": "Active Generation",
+      "value": "Halloween"
+    }
+  ]
 }

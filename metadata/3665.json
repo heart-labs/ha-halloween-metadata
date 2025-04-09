@@ -1,20 +1,56 @@
 {
-    "name": "Heart Army #3665",
-    "external_url" : "https://heartarmy.xyz/",
-    "description": "May our soldiers survive to acomplish their mission. May our walls stand the force of ice and our hearts the scourge of the Evernight. We do not ask winter for mercy, as it is it's nature to erase all unguarded life. We ask for strength.",
-    "image":"https://nft-metadata-host.nyc3.cdn.digitaloceanspaces.com/HA-Halloween/images/3665.png",
-    "attributes": [
-        {"trait_type":"Race","value":"Human"},
-        {"trait_type":"Face","value":"Secret Teller"},
-        {"trait_type":"Job","value":"Paladin"},
-        {"trait_type":"Warcheeks","value":"Square Cheeks"},
-        {"trait_type":"War Pigment","value":"Mud"},
-        {"trait_type":"Hairstyle","value":"Long Cute"},
-        {"trait_type":"Body Palette","value":"Sweet Honey"},
-        {"trait_type":"Faction","value":"Rock Gangs"},
-        {"trait_type":"Hair Color","value":"Light Brown"},
-        {"trait_type":"Background","value":"Redish Dragon"},
-        {"trait_type":"GenerationTrait","value":"Skeleton"},
-        {"trait_type":"Active Generation","value":"Halloween"}
-    ]
+  "name": "Heart Army #3665",
+  "external_url": "https://heartarmy.xyz/",
+  "description": "May our soldiers survive to acomplish their mission. May our walls stand the force of ice and our hearts the scourge of the Evernight. We do not ask winter for mercy, as it is it's nature to erase all unguarded life. We ask for strength.",
+  "image": "https://raw.githubusercontent.com/heart-labs/ha-halloween-metadata/refs/heads/main/images/3665.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Secret Teller"
+    },
+    {
+      "trait_type": "Job",
+      "value": "Paladin"
+    },
+    {
+      "trait_type": "Warcheeks",
+      "value": "Square Cheeks"
+    },
+    {
+      "trait_type": "War Pigment",
+      "value": "Mud"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Long Cute"
+    },
+    {
+      "trait_type": "Body Palette",
+      "value": "Sweet Honey"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Rock Gangs"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Light Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Redish Dragon"
+    },
+    {
+      "trait_type": "GenerationTrait",
+      "value": "Skeleton"
+    },
+    {
+      "trait_type": "Active Generation",
+      "value": "Halloween"
+    }
+  ]
 }

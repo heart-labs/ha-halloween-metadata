@@ -1,21 +1,60 @@
 {
-    "name": "Heart Army #4666",
-    "external_url" : "https://heartarmy.xyz/",
-    "description": "May our soldiers survive to acomplish their mission. May our walls stand the force of ice and our hearts the scourge of the Evernight. We do not ask winter for mercy, as it is it's nature to erase all unguarded life. We ask for strength.",
-    "image":"https://nft-metadata-host.nyc3.cdn.digitaloceanspaces.com/HA-Halloween/images/4666.png",
-    "attributes": [
-        {"trait_type":"Race","value":"Elf"},
-        {"trait_type":"Face","value":"Tired"},
-        {"trait_type":"Job","value":"Explorer"},
-        {"trait_type":"Racial Trait","value":"Earthen Crown"},
-        {"trait_type":"Warcheeks","value":"Square Cheeks"},
-        {"trait_type":"War Pigment","value":"Golden Mark"},
-        {"trait_type":"Hairstyle","value":"Messy"},
-        {"trait_type":"Body Palette","value":"Dark Forest Dweller"},
-        {"trait_type":"Faction","value":"Starchildren"},
-        {"trait_type":"Hair Color","value":"Mountain Blessing"},
-        {"trait_type":"Background","value":"Just Brown :("},
-        {"trait_type":"GenerationTrait","value":"Skeleton"},
-        {"trait_type":"Active Generation","value":"Halloween"}
-    ]
+  "name": "Heart Army #4666",
+  "external_url": "https://heartarmy.xyz/",
+  "description": "May our soldiers survive to acomplish their mission. May our walls stand the force of ice and our hearts the scourge of the Evernight. We do not ask winter for mercy, as it is it's nature to erase all unguarded life. We ask for strength.",
+  "image": "https://raw.githubusercontent.com/heart-labs/ha-halloween-metadata/refs/heads/main/images/4666.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Elf"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Job",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Racial Trait",
+      "value": "Earthen Crown"
+    },
+    {
+      "trait_type": "Warcheeks",
+      "value": "Square Cheeks"
+    },
+    {
+      "trait_type": "War Pigment",
+      "value": "Golden Mark"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Body Palette",
+      "value": "Dark Forest Dweller"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Starchildren"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Mountain Blessing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Just Brown :("
+    },
+    {
+      "trait_type": "GenerationTrait",
+      "value": "Skeleton"
+    },
+    {
+      "trait_type": "Active Generation",
+      "value": "Halloween"
+    }
+  ]
 }
